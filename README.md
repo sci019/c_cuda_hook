@@ -1,4 +1,4 @@
-# mallocをLD_PRELOADでフックするコード
+# C/CUDA関数をLD_PRELOADでフックするコード
 必要最低限のサンプルコードです。
 
 ## 実行手順
